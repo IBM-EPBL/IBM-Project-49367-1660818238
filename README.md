@@ -6,3 +6,4 @@ BRAINSTORMING AND IDEATION: https://app.mural.co/invitation/mural/estimation1302
 ALRAHAMATHU NISHA ASSIGNMENT DASHBOARD LINK : https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FPHARMA%2BDASHBOARD&action=view&mode=dashboard&subView=model000001837ad46763_00000000
 NITHYA SRI ASSIGNMENT DASHBOARD LINK : https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FPHARMA%2BSALES%2BDASHBOARD&action=view&mode=dashboard&subView=model000001837db02732_00000002
 SUBALAKSHMI ASSIGNMENT DASHBOARD : https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2Fpharma%2Bdashboard&action=view&mode=dashboard&subView=model000001837d57e0af_00000000
+CUSTOMER JOURNEY MAP TEMPLATE LINK: https://miro.com/welcomeonboard/a2RHbkhVQWNodDlZS3kyY3FuV0F5cDVUUEdBODVNV3lvVTBXU3BTZGVaM3VpTjlTdEVCYWdxcjRCdG0zcUtJd3wzNDU4NzY0NTM1NDQxMTc3OTgyfDI=?share_link_id=268105990076
