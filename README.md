@@ -9,3 +9,4 @@ SUBALAKSHMI ASSIGNMENT DASHBOARD : https://us3.ca.analytics.ibm.com/bi/?perspect
 CUSTOMER JOURNEY MAP TEMPLATE LINK: https://miro.com/welcomeonboard/a2RHbkhVQWNodDlZS3kyY3FuV0F5cDVUUEdBODVNV3lvVTBXU3BTZGVaM3VpTjlTdEVCYWdxcjRCdG0zcUtJd3wzNDU4NzY0NTM1NDQxMTc3OTgyfDI=?share_link_id=268105990076
 CUSTOMER JOURNEY LINK: https://app.mural.co/invitation/mural/estimation1302/1665815634887?sender=u3d44f36b81901d7079772856&key=fa64d11c-afab-48e1-b732-0bac21791838
 WEBSITE LINK: https://sites.google.com/view/estimate-the-crop-yield/home
+YOUTUBE DEMO VIDEO LINK: https://youtu.be/lBxNNtkdOsQ
